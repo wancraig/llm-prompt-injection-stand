@@ -4,9 +4,7 @@ Reproducible local stand for evaluating prompt injection vulnerabilities
 and basic defense mechanisms in open-source large language models.
 
 Developed as part of MIFI Master's thesis (2026):
-*Повышение устойчивости больших языковых моделей к инъекционным атакам путём
-исследования уязвимостей, разработки методов обнаружения и защиты
-и их экспериментальной оценки на воспроизводимом стенде.*
+*Исследование инъекционных атак на большие языковые модели и разработка методов их обнаружения и защиты.*
 
 ## Author
 Maksim Avdenja — M24-505, MIFI, Cryptology and Cybersecurity Dept.
