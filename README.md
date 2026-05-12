@@ -9,7 +9,7 @@ Developed as part of MIFI Master's thesis (2026):
 и их экспериментальной оценки на воспроизводимом стенде.*
 
 ## Author
-Maxim Avdenya — M24-505, MIFI, Cryptology and Cybersecurity Dept.
+Maksim Avdenja — M24-505, MIFI, Cryptology and Cybersecurity Dept.
 
 ## Stack
 - Python 3.14
