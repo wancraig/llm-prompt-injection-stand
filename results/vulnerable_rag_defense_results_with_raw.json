@@ -3,11 +3,11 @@
   "n_attacks": 15,
   "summary_raw_outputs": {
     "no_defense": {
-      "ASR_strict": 0.5333333333333333,
+      "ASR_strict": 0.6,
       "Leakage": 1.0
     },
     "output_only": {
-      "ASR_strict": 0.5333333333333333,
+      "ASR_strict": 0.6,
       "Leakage": 1.0
     },
     "input_output": {

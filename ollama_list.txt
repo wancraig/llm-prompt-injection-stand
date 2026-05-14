@@ -1,0 +1,5 @@
+NAME              ID              SIZE      MODIFIED
+qwen2:7b          dd314f039b9d    4.4 GB    2 months ago
+phi3:latest       4f2222927938    2.2 GB    2 months ago
+llama3:latest     365c0bd3c000    4.7 GB    2 months ago
+mistral:latest    6577803aa9a0    4.4 GB    2 months ago

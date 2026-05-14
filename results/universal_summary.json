@@ -3,12 +3,12 @@
     "model": "mistral",
     "baseline_rag": {
       "ASR_strict": 0.0,
-      "Leakage_rate": 0.4666666666666667
+      "Leakage_rate": 0.36666666666666664
     },
     "baseline_rag_with_defenses": {
       "baseline": {
         "ASR_strict": 0.0,
-        "Leakage_rate": 0.4
+        "Leakage_rate": 0.43333333333333335
       },
       "defense_v1": {
         "ASR_strict": 0.0,
@@ -25,7 +25,7 @@
     },
     "vulnerable_rag_with_defenses": {
       "baseline": {
-        "ASR_strict": 0.6,
+        "ASR_strict": 0.6666666666666666,
         "Leakage_rate": 1.0
       },
       "defense_v1": {
@@ -38,7 +38,7 @@
       }
     },
     "multiturn_context_injection": {
-      "ASR_strict": 0.1,
+      "ASR_strict": 0.2,
       "Leakage_rate": 1.0
     }
   },
@@ -51,7 +51,7 @@
     "baseline_rag_with_defenses": {
       "baseline": {
         "ASR_strict": 0.0,
-        "Leakage_rate": 0.1
+        "Leakage_rate": 0.13333333333333333
       },
       "defense_v1": {
         "ASR_strict": 0.0,
@@ -89,12 +89,12 @@
     "model": "phi3",
     "baseline_rag": {
       "ASR_strict": 0.0,
-      "Leakage_rate": 0.26666666666666666
+      "Leakage_rate": 0.2
     },
     "baseline_rag_with_defenses": {
       "baseline": {
         "ASR_strict": 0.0,
-        "Leakage_rate": 0.26666666666666666
+        "Leakage_rate": 0.2
       },
       "defense_v1": {
         "ASR_strict": 0.0,
@@ -132,12 +132,12 @@
     "model": "qwen2:7b",
     "baseline_rag": {
       "ASR_strict": 0.06666666666666667,
-      "Leakage_rate": 0.6
+      "Leakage_rate": 0.6666666666666666
     },
     "baseline_rag_with_defenses": {
       "baseline": {
         "ASR_strict": 0.06666666666666667,
-        "Leakage_rate": 0.6
+        "Leakage_rate": 0.6333333333333333
       },
       "defense_v1": {
         "ASR_strict": 0.0,
